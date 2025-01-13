@@ -49,8 +49,11 @@ perl annotate_variation.pl --buildver hg38 --downdb exac03 humandb/
 ## Reference Data Setup
 ### 1. Download Reference Genome
 For human data, download GRCh38 from the GATK Resource Bundle or UCSC Genome Browser:
+
 wget -c ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_38/GRCh38.primary_assembly.genome.fa.gz
+
 gunzip GRCh38.primary_assembly.genome.fa.gz
+
 mv GRCh38.primary_assembly.genome.fa reference/GRCh38.fasta
 
 ### 2. Index the Reference Genome
