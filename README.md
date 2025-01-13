@@ -1,6 +1,6 @@
 # Variant-Callling-Pipeline-with-Snakemake
 
-This repository contains a Snakemake pipeline for variant calling from FASTQ cell line data. It automates the process from quality control to variant annotation using a variety of bioinformatics tools. Below is a comprehensive guide to installing tools, setting up data, and running the pipeline.
+This repository contains a Snakemake pipeline for variant calling from FASTQ cell line data. It automates the process from quality control to variant annotation using various bioinformatics tools. Below is a comprehensive guide to installing tools, setting up data, and running the pipeline.
 
 ## Requirements
 
